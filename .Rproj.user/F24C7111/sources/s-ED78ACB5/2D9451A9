@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1548355502763.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "2D9451A9",
+    "lastKnownWriteTime" : 1548359104,
+    "last_content_update" : 1548359107225,
+    "path" : "~/DS202/Lab1.R",
+    "project_path" : "Lab1.R",
+    "properties" : {
+        "cursorPosition" : "40,0",
+        "scrollLine" : "16",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

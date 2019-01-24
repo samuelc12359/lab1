@@ -1,0 +1,39 @@
+]0;~/DS202[?1034hsams-macbookpro1:DS202 sam$ [Ksams-macbookpro1:DS202 sam$ git remote add origin https://github.com/samuelc12359/lab1.git
+fatal: not a git repository (or any of the parent directories): .git
+]0;~/DS202sams-macbookpro1:DS202 sam$ git push -u origin mastergit remote add origin https://github.com/samuelc12 359/lab1.git
+fatal: not a git repository (or any of the parent directories): .git
+]0;~/DS202sams-macbookpro1:DS202 sam$ git push -u origin mastergit remote add origin https://github.com/samuelc12 359/lab1.git
+fatal: not a git repository (or any of the parent directories): .git
+]0;~/DS202sams-macbookpro1:DS202 sam$ git push -u origin master[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kinit
+Initialized empty Git repository in /Users/sam/DS202/.git/
+]0;~/DS202sams-macbookpro1:DS202 sam$ git remote add origin https://github.com/samuelc12359/lab1.git
+]0;~/DS202sams-macbookpro1:DS202 sam$ git push -u origin master\\\[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgit remote add origin https://github.com/samuelc12359/lab1.git
+fatal: remote origin already exists.
+]0;~/DS202sams-macbookpro1:DS202 sam$ git push -u origin master
+error: src refspec master does not match any.
+[31merror: failed to push some refs to 'https://github.com/samuelc12359/lab1.git'
+[m]0;~/DS202sams-macbookpro1:DS202 sam$ git push -u origin master
+error: src refspec master does not match any.
+[31merror: failed to push some refs to 'https://github.com/samuelc12359/lab1.git'
+[m]0;~/DS202sams-macbookpro1:DS202 sam$ git push -u origin masterremote add origin https://github.com/samuelc12359/lab1.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[37Ppush -u origin masterremote add origin https://github.com/samuelc12359/lab1.git
+fatal: remote origin already exists.
+]0;~/DS202sams-macbookpro1:DS202 sam$ git remote add origin https://github.com/samuelc12359/lab1.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[37Ppush -u origin master
+error: src refspec master does not match any.
+[31merror: failed to push some refs to 'https://github.com/samuelc12359/lab1.git'
+[m]0;~/DS202sams-macbookpro1:DS202 sam$ pwd
+/Users/sam/DS202
+]0;~/DS202sams-macbookpro1:DS202 sam$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31m.Rhistory[m
+	[31m.Rproj.user/[m
+	[31mDS202.Rproj[m
+	[31mLab1.R[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+]0;~/DS202sams-macbookpro1:DS202 sam$ git astatusa[Kad[K[Kdd --all
